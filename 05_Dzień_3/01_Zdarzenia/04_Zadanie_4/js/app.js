@@ -1,0 +1,1 @@
+const couner = document.querySelector(selectors, )
